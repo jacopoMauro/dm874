@@ -11,7 +11,7 @@ classroom.
 Every student will receive a category of tools based on the [DevOps periodic
 table](https://xebialabs.com/periodic-table-of-devops-tools/). Ideally, all the
 tools categories (Source Control Management, Continuous Integration, ...) will
-be covered. The categories will be assigned to student based on requests if an
+be covered. The categories will be assigned to students based on requests if an
 agreement is possible, in a randomic way otherwise.
 
 Every presentation will indicatively last 45 minutes (35 minutes of
@@ -32,23 +32,23 @@ The presentation may be structured as follows:
 * other tools not in DevOps periodic table
   * surf the net (e.g., sites like [https://stackshare.io/](https://stackshare.io/)
     to check if there are additional tools that would fit into the table
-  * if tool are important include them in the presentation
+  * if tools are important include them in the presentation
   * otherwise mention them en passant
 * concluding remarks
   * what is important to know, personal ideas
 
 ## Goal
 
-The goal of this presentation are the following:
+The goals of this presentation are the following:
 * show that a student is able to independently retrieve information from
   different sources, compile and summarize this information into a coherent
   presentation given to their peers to foster a selection of what tools to chose
   in their future work,
-* show that the students has the social skills to interact with his/her peers to
+* show that the students have the social skills to interact with his/her peers to
   convey effectively information and ideas,
 * first preliminary part of the final project. 
 
-The students while developing the presentation do not have to aim at given low
+The students while developing the presentation do not have to aim at giving low
 level details, but to try instead to emphasize what are the good features of the
 tools, how easy is to use them, and in what context they should be used.
 
@@ -63,10 +63,10 @@ may be asked to be improved or detailed at the discretion of the lecturer.
 ## Evaluation
 
 Important for fulfilling the task:
-* Is the information attention-getting? Does it lay out the problem well?
+* Is the presentation attention-getting? Does it lay out the problem well?
 * Are technical terms well-defined? Is the language appropriate for the target
   audience?
-* Is there a obvious conclusion summarizing the presentation? Are potential
+* Is there an obvious conclusion summarizing the presentation? Are potential
   weaknesses (if any) in findings summarized?
 * Clarity of content? Significance? Right amount of information?
 * Response to questions?
@@ -74,10 +74,10 @@ Important for fulfilling the task:
 Important for personal development:
 * Did the presenter stay within the timeframe given?
 * Professional and confident?
-* Engaged with audience? Eye contact? Appropriately animated (e.g., gestures,
+* Engaged with the audience? Eye contact? Appropriately animated (e.g., gestures,
   moving around)?
 * Enthusiasm about topic?
-* Slides with few text, images, and not distracting?
+* Slides with little text, images, and not distracting?
 * Clear voice with good pace? Limited use of filler words (“umm,” “like,”)?
 
 ## Tips for presentation
@@ -115,12 +115,12 @@ Important for personal development:
 
 #### 10-20-30 Rule for Slideshows (if you can, but not in our case)
 * Contain no more than 10 slides, last no more than 20 minutes, use a font size
-  of no less than 30 point (no ‘Death by PowerPoint’).
+  of no less than 30 points (no ‘Death by PowerPoint’).
 * Good set of slides should be no use without the presenter (difficult)
 * Contain less, rather than more
 * No (internal)notes on slides
 * Page numbers: avoid if short but useful for Q/A
-* Outline: avoid if short time
+* Outline: avoid if time is short
 
 #### Relax, Breathe and Enjoy
 * Rehearse your presentation
