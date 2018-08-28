@@ -12,7 +12,7 @@ Durning the course, we will use the language
 [Jolie](https://www.jolie-lang.org/) as a possible tool for developing
 microservice systems. Moreover, we will indulge in the new DevOps software
 engineering culture and practice to understand how to automatize and monitor all
-steps of software construction, from integration, testing, releasing to
+steps of software construction, from integration, testing, release to
 deployment and infrastructure management.
 
 To complete the course you need to complete a presentation on the most modern
