@@ -14,8 +14,11 @@ tools categories (Source Control Management, Continuous Integration, ...) will
 be covered. The categories will be assigned to students based on requests if an
 agreement is possible, in a randomic way otherwise.
 
-Every presentation will indicatively last 45 minutes (35 minutes of
-presentation, 10 minutes of answers).
+Every presentation will indicatively last 30 minutes (25 minutes of
+presentation, 5 minutes of answers). After the presentation listeners will be
+able to give feedback to the presenter by using the peergrade.io system. The
+presenter can therefore go online, check the peers feedback and mark it if it
+was useful or not.
 
 The presentation may be structured as follows:
 * a brief overview of the category chosen
