@@ -19,6 +19,19 @@ To complete the course you need to complete a presentation on the most modern
 tools used by the big players of the IT world and a project where a microservice
 system must be build following the DevOps approach.
 
+## Lecturer
+
+[Jacopo Mauro](https://imada.sdu.dk/~mauro/)
+Contact email: mauro@sdu.dk
+Office Ø13-604a-2
+
+## Course Material
+
+The course material is available on this git repository. Material that can not
+be made public will be available on the [Blackboard
+platform](https://e-learn.sdu.dk/). 
+
+
 
 
 
