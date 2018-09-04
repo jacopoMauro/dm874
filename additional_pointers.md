@@ -14,7 +14,7 @@ Jolie gitbook: [https://jolielang.gitbook.io/docs/](https://jolielang.gitbook.io
 
 Periodic table of DevOps: [https://xebialabs.com/periodic-table-of-devops-tools/](https://xebialabs.com/periodic-table-of-devops-tools/)
 
-### Other interesting references
+# Other interesting references
 
 [DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/): guide
 for planning and executing DevOps transformations while providing background on

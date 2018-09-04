@@ -133,7 +133,7 @@ The student is asked to:
   same problems in the future,
 * what are the main takeaway tips learned during the execution of the project.
 
-## Oral exam
+## Individual oral exam
 
 The oral exam will consist of 20 minutes. The student will be required to have a
 short presentation on the project (~10 minutes), a brief presentation (~5
