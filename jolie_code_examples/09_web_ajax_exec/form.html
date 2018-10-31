@@ -1,0 +1,44 @@
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+</head>
+<body>
+<h1>Run your code, v0.0.1 alpha 1</h1>
+<form action="runCode" enctype="multipart/form-data">
+<p>
+  <select selected="JavaScript" id="type" name="type">
+    <option value="JavaScript">JavaScript</option>
+    <option value="Jolie">Jolie</option>
+  </select>
+</p>
+<textarea name="program" id="program">
+print( "Hello" );
+</textarea>
+
+<p><input type="button" id="runButton" value="Run!"/></p>
+</form>
+
+<p>
+Output: <div id="output"></div>
+</p>
+
+<script>
+$("#runButton").click( function() {
+  $("#output").text( "Wait a sec..." );
+  $.ajax( {
+    url: "/runCode",
+    dataType: "json",
+    data: JSON.stringify( {
+      type: $("#type").val(),
+      program: $("#program").val()
+    } ),
+    type: "POST",
+    contentType: "application/json",
+    success: function( response ) {
+      $("#output").text( response.$ );
+    }
+  } );
+} );
+</script>
+</body>
+</html>
