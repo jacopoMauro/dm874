@@ -54,7 +54,7 @@ perform to implement the project.
 
 ### Format
 
-The report must not exceed 10 pages excluding citations. Use 1.5 line spacing
+The report must not exceed 20 pages excluding citations. Use 1.5 line spacing
 and ensure that the page margins are at least of 2cm (in all directions). For
 the body text, use Times new roman as family and 12pt as font size.
 
