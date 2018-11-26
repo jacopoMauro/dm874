@@ -30,7 +30,6 @@ To pass the exam the students has to:
 * fulfill the task required on the agreed project,
 * write in the group the project report (see details below)
 * write the individual contribution report (see details below)
-* sustain a discussion
 
 # Guidelines for the project report
 
@@ -133,12 +132,8 @@ The student is asked to:
   same problems in the future,
 * what are the main takeaway tips learned during the execution of the project.
 
-## Individual discussion
+## Discussion
 
-The discussion will consist of 20 minutes. The student will be required to have a
-short presentation on the project (~10 minutes), a brief presentation (~5
-minutes) on the takeaway messages and the most important things that have been
-learned or that cause a failure. The exam will end with a round on question
-related to the project or the course material.
+The students can attend an oral discussion to clarify some points on the project.
 
 
