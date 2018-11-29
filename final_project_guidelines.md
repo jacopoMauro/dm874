@@ -1,8 +1,5 @@
 # Final project guidelines
 
-This text is only in draft form. It will be finalized after a classroom
-discussion.
-
 ## The task
 
 After giving an individual presentation on the tools (see the presentation
