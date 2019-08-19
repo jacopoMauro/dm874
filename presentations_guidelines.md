@@ -14,8 +14,8 @@ tools categories (Source Control Management, Continuous Integration, ...) will
 be covered. The categories will be assigned to students based on requests if an
 agreement is possible, in a randomic way otherwise.
 
-Every presentation will indicatively last 30 minutes (25 minutes of
-presentation, 5 minutes of answers). After the presentation listeners will be
+Every presentation will indicatively last 20 minutes (15 minutes of
+presentation, 5 minutes of questions and answers). After the presentation listeners will be
 able to give feedback to the presenter by using the peergrade.io system. The
 presenter can therefore go online, check the peers feedback and mark it if it
 was useful or not.
@@ -39,12 +39,17 @@ The presentation may be structured as follows:
   * otherwise mention them en passant
 * concluding remarks
   * what is important to know, personal ideas
+  
+After receiving the feedback, the presenter should report (5 minutes) on
+the feedback received by underlining the positive aspects of the presentation
+mentioned, the things that were suggested to be improved, and answer eventual
+technical questions that were asked in the peer-feedback evaluation step.
 
 ## Goal
 
 The goals of this presentation are the following:
 * show that a student is able to independently retrieve information from
-  different sources, compile and summarize this information into a coherent
+  different sources, compile, and summarize this information into a coherent
   presentation given to their peers to foster a selection of what tools to chose
   in their future work,
 * show that the students have the social skills to interact with his/her peers to

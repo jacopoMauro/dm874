@@ -1,5 +1,13 @@
 # References
 
+### Basics
+
+* Bash: [https://ryanstutorials.net/linuxtutorial/](https://ryanstutorials.net/linuxtutorial/)
+* JSON: [https://www.w3schools.com/js/js_json_syntax.asp](https://www.w3schools.com/js/js_json_syntax.asp)
+* JAML: [https://riptutorial.com/yaml](https://riptutorial.com/yaml)
+* Docker: [https://www.docker.com](https://www.docker.com)
+* Kubernetes: [https://kubernetes.io/](https://kubernetes.io/)
+
 ### DevOps (Initial Part)
 
 Title: DevOps: A Software Architect's Perspective <br/>
@@ -10,9 +18,21 @@ Publisher: Addison-Wesley Professional | ISBN: 0134049845
 
 Jolie gitbook: [https://jolielang.gitbook.io/docs/](https://jolielang.gitbook.io/docs/)
 
+### Cloud Providers
+
+* [AWS](https://aws.amazon.com/)
+* [Google Cloud](https://cloud.google.com/)
+* [Azure](https://azure.microsoft.com/en-us/free/students/)
+* [DigitalOcean](https://www.digitalocean.com)
+* [IBM Cloud](https://www.ibm.com/cloud/)
+
 ### DevOps tools (Presentation)
 
 Periodic table of DevOps: [https://xebialabs.com/periodic-table-of-devops-tools/](https://xebialabs.com/periodic-table-of-devops-tools/)
+
+### Online Tutorials
+
+Katacoda: [https://www.katacoda.com/](https://www.katacoda.com/)
 
 # Other interesting references
 

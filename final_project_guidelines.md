@@ -16,7 +16,8 @@ rule!). The formation of groups is decided in a randomic way.
 The groups can propose a project to develop. Good candidate projects are those
 that involve the development of microservices (potentially using Jolie - but not
 a requirement), and use tools for the continuous integration/deployment,
-testing, monitor, logging of the system. The tasks to perform to have a minimal
+testing, monitor, logging, security of the system.
+The tasks to perform to have a minimal
 viable project are discussed with the lecturer, that can authorize it.
 
 If a group has no idea or the proposal presents weaknesses, a standard project
@@ -27,6 +28,7 @@ To pass the exam the students has to:
 * fulfill the task required on the agreed project,
 * write in the group the project report (see details below)
 * write the individual contribution report (see details below)
+* discuss the project
 
 # Guidelines for the project report
 
@@ -40,9 +42,9 @@ You have to hand in a single zip file on Blackboard, containing:
   name);
 - a subdirectory named "code" containing the source code for your project.
 
-Either in the report (Section "Technical Description", described below), or in a
-separate README file pointed, instructions for running the project must be
-included.
+Clear instructions for running the project must be included either in the report
+(Section "Technical Description", described below), or in a
+separate README file included in the subdirectory "code".
 
 ## Project Report
 
@@ -117,20 +119,26 @@ your liking, but respect the minimal specifications).
 
 ### Structure
 
-The structure of the individual report is free.
-The student is asked to:
+The structure below is a guideline for the project.
+The student is asked to structure the text in sections.
+Sections (or clearly marked paragraphs) should:
 * state the individual contribution given to the project,
-* describe how the tasks have been divided among the members, how the
-  communication between the members have been organized, how possible team
-  organization problems have been dealt with,
-* elaborate on what did go well beyond what planned, what are you particularly
+* describe how the tasks have been divided among the members
+* describe how the communication between the members have been organized
+* describe team organization problems, if any and how they have been dealt with,
+* elaborate on what did go well beyond what planned: what are you particularly
   proud about the project outcome,
 * elaborate on what did not go as planned, why, what can be done to avoid the
   same problems in the future,
-* what are the main takeaway tips learned during the execution of the project.
+* what are the main technical takeaway tips learned during the execution of the
+  project,
+* what are the main organizational takeaway tips learned during the execution
+  of the project.
 
 ## Discussion
 
-The students can attend an oral discussion to clarify some points on the project.
+The students will have an oral discussion to clarify some points on the project.
+The discussion will be structured as a 10 minutes demo presentation and a 10-20
+minutes of questions and answers.
 
 
