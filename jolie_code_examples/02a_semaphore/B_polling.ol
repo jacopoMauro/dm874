@@ -1,4 +1,3 @@
-// This does 
 include "console.iol"
 include "common.iol"
 include "time.iol"
@@ -21,21 +20,16 @@ main
   [getLock()(x) {
     x.id = new
     not_lock = True
-    synchronized(mylabel) {
-      if (global.i == 1) {
-        global.i = 0
-        global.id = x.id
-        not_lock = False
-      }
-    }
     while (not_lock) {
-      sleep@Time( 1000 )( )
       synchronized(mylabel) {
         if (global.i == 1) {
           global.i = 0
           global.id = x.id
           not_lock = False
         }
+      }
+      if (not_lock){
+        sleep@Time( 1000 )( )
       }
     }
   }]{ println@Console( "Getting lock request" + x.id )(  ) }

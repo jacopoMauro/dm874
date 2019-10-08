@@ -10,7 +10,7 @@ RequestResponse:
 outputPort GitHub {
 Location: "socket://api.github.com:443/"
 Protocol: https {
-  .osc.listUserRepositories.method =
+  .osc.listUserRepositories.method = "get"
   .osc.listLanguages.method = "get";
   .addHeader.header << "User-Agent" { .value = "Jolie" };
   // .debug = .debug.showContent = true;
