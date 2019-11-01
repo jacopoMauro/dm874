@@ -55,7 +55,7 @@ main
     } )( result );
     
     println@Console( "Return code: " + result.exitCode )();
-    println@Console( "STDERR: " + result.exitCode )();
+    println@Console( "STDERR: " + result.stderr )();
     
     output = result
   } ]
