@@ -30,6 +30,17 @@ To pass the exam the students has to:
 * write the individual contribution report (see details below)
 * discuss the project
 
+# Code
+
+You have to hand in in a single zip file, all the code and the documentation
+developed to run the system, run and set up the CI/CD pipeline.
+
+Clear instructions for running the project and setting up the pipeline must be
+included in a separate README.md file included in code zip file.
+
+All the member of the group must upload the same zip file.
+
+
 # Guidelines for the project report
 
 ## Packaging
@@ -39,12 +50,7 @@ You have to hand in a single zip file on Blackboard, containing:
 - a PDF file with the project report (call it "group_project_report.pdf");
 - a PDF file with your individual report (call it
   "$your_name_report_mp_2018.pdf", where $your_name should be replaced by your
-  name);
-- a subdirectory named "code" containing the source code for your project.
-
-Clear instructions for running the project must be included either in the report
-(Section "Technical Description", described below), or in a
-separate README file included in the subdirectory "code".
+  name).
 
 ## Project Report
 
