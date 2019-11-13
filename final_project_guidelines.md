@@ -47,10 +47,11 @@ All the member of the group must upload the same zip file.
 
 You have to hand in a single zip file on Blackboard, containing:
 
-- a PDF file with the project report (call it "group_project_report.pdf");
+- a PDF file with the project report (call it "group_report_NUMBER.pdf",
+  where NUMBER is your group number);
 - a PDF file with your individual report (call it
-  "$your_name_report_mp_2018.pdf", where $your_name should be replaced by your
-  name).
+  "individual_report_NAME_SURNAME.pdf", where NAME and SURNAME should be
+  replaced by your name and surname).
 
 ## Project Report
 
