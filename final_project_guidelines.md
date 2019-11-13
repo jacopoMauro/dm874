@@ -32,7 +32,7 @@ To pass the exam the students has to:
 
 # Code
 
-You have to hand in in a single zip file, all the code and the documentation
+You have to hand in in a single zip file all the code and the documentation
 developed to run the system, run and set up the CI/CD pipeline.
 
 Clear instructions for running the project and setting up the pipeline must be
