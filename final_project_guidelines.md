@@ -14,8 +14,7 @@ It is recommended that the project is performed in small groups (Amazon 2 pizza
 rule!). The formation of groups is decided in a randomic way.
 
 The groups can propose a project to develop. Good candidate projects are those
-that involve the development of microservices (potentially using Jolie - but not
-a requirement), and use tools for the continuous integration/deployment,
+that involve the development of microservices, and use tools for the continuous integration/deployment,
 testing, monitor, logging, security of the system.
 The tasks to perform to have a minimal
 viable project are discussed with the lecturer, that can authorize it.
@@ -84,11 +83,11 @@ relevant.
 
 2 - Preliminaries.
 Give a brief overview of the background knowledge needed to understand your
-report. Provide references to what you have used and report the main concepts
-that your work is based on.
+report. Provide references to what you have used.
 
 3 - Technical Description.
-Here you explain the technical work you have carried out. You may include code
+Here you explain the technical work you have carried out. You should present the
+overall view of your microservice architecture. You may include code
 snippets where relevant, and refer to source code in the project files. Try to
 explain the development choices you did taking into account important properties
 such as deployability, availability, reusability, security, modifiability,
@@ -100,7 +99,8 @@ alternative solutions to the same challenge you have tried to address in your
 project, or alternative methodologies that you may have followed (e.g., choice
 of other technologies for implementing the project). Provide a discussion on the
 implications of your choices in the design of your work and the
-technologies/techniques that you have used.
+technologies/techniques that you have used. Discuss what are the shortcomings of
+your project, possibly explaining how they could be solved or mitigated.
 
 - References (or Bibliography)
 This section should contain references to the articles/websites/resources/etc.
@@ -128,7 +128,7 @@ your liking, but respect the minimal specifications).
 
 The structure below is a guideline for the project.
 The student is asked to structure the text in sections.
-Sections (or clearly marked paragraphs) should:
+Sections (clearly marked!) should:
 * state the individual contribution given to the project,
 * describe how the tasks have been divided among the members
 * describe how the communication between the members have been organized
@@ -145,7 +145,8 @@ Sections (or clearly marked paragraphs) should:
 ## Discussion
 
 The students will have an oral discussion to clarify some points on the project.
-The discussion will be structured as a 10 minutes demo presentation and a 10-20
-minutes of questions and answers.
+The discussion will be structured first as a group presentation for a demo of the
+developed project. This group discussion is then followed by a 10 minutes
+individual questions and answers session.
 
 

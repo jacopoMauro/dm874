@@ -55,6 +55,8 @@ testing, deploying, and monitoring your own autonomous services.
 [https://stackshare.io/](https://stackshare.io/): website to discover the new
 trends and used DevOps tools
 
+[https://free-for.dev/](https://free-for.dev/): list of free DevOps tools and
+frameworks
 
 ### Online articles
 

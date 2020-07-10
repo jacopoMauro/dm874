@@ -1,7 +1,7 @@
 # Microservices and DevOps
 
 This repository contains the public material and information related to the 
-[Microservices and DevOps](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=38489&lang=en&listid=)
+[Microservices and DevOps](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&internkode=DM874&lang=en)
 offered by the IMADA Department at SDU.
 
 The course is an introduction to the current practices of Microservices and
@@ -19,10 +19,6 @@ The course will cover recent research and technologies for the programming of
 microservices using DevOps approaches. It fosters a coherent understanding of
 advantages and disadvantages of microservices and DevOps practices to develop
 the complex distributed applications of the future.
-
-Durning the course, we will use the language
-[Jolie](https://www.jolie-lang.org/) as a possible tool for developing
-microservice systems.
 
 To complete the course you need to complete a presentation on the most modern
 tools used by the big players of the IT world and a project where a microservice
