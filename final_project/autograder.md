@@ -51,6 +51,7 @@ The developer of the systems has to:
   part of the system since potentially the code of the students is non trusted),
 * provide user stories to explain how the system is intended to be use
 * provide minimal documentation to deploy and run the system
+* possibility to deploy on multi-clouds is a plus
 
 
 
