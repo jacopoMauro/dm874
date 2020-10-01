@@ -38,7 +38,7 @@ By using a programmatic RESTful API the user should be able to:
 * cancel the execution of a solver or group of solvers
 * submit in bulk a set of instances to be solved and run solvers over these
   instances with a given set of parameters
-* GUI support (optional)
+* GUI support (optional for group with 6 people)
 
 The administrator of the framework should be able to:
 * monitoring and logging the platform using a dashboard
@@ -60,6 +60,7 @@ The developer of the systems have to:
   enforced)
 * provide user stories to explain how the system is intended to be use
 * provide minimal documentation to deploy and run the system
+* possibility to deploy on multi-clouds is a plus
 * fairness: if the resources do not allow to run all the solvers at the same time
   the jobs should be delayed and executed fairly. User should therefore not wait
   indefinitely to run their jobs (optional). 

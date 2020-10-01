@@ -16,7 +16,7 @@ By using a programmatic RESTful API the user should be able to:
 * submit a solution to an assignment
 * check if the evaluation of an assignment has been done
 * see the results of the assignment
-* GUI support (optional)
+* GUI support (optional for group with 6 people)
 
 The administrator of the framework should be able to:
 * monitoring and logging the platform using a dashboard
