@@ -60,10 +60,14 @@ The developer of the systems have to:
   enforced)
 * provide user stories to explain how the system is intended to be use
 * provide minimal documentation to deploy and run the system
-* possibility to deploy on multi-clouds is a plus
 * fairness: if the resources do not allow to run all the solvers at the same time
   the jobs should be delayed and executed fairly. User should therefore not wait
-  indefinitely to run their jobs (optional). 
+  indefinitely to run their jobs (optional).
+  
+Notes:
+* the possibility to deploy on multi-clouds and avoid vendor lock-in is a plus
+* a proper team organization and team work management are a plus 
+
 
 
 

@@ -23,20 +23,20 @@ The administrator of the framework should be able to:
 * add a public assignment (text + docker image to evaluate the assignment)
 * add a private assignment submitting the list of users allowed to submit
   (text + docker image to evaluate the assignment + list of users)
-* add or remove individual users to a private assignment
+* add or remove individual users or administrators to a private or public assignment
 * given a student, check the status and the result of an assignment given 
   by the student
 * remove an assignment and all the information connected
 * remove a user
-* limit the amount of time a docker container can run to evaluate an assignment
+* limit the amount of time a docker containers can run to evaluate an assignment
   (if the timeout is reached this should be reported to the student instead of
-  the results.txt output)
+  the results.txt output and recorded by the system)
 * trigger the manual re-evaluation of an assignment
 * test the sumbission of an assignment by providing an example of student
-  submission and check the output
+  submission and check the output and the logs
 * given an assignment, extract in bulk all the student submissions 
   and their results
-* GUI support (optional)
+* GUI support (optional if the group is less than 7 people)
 
 The developer of the systems has to:
 * Use continuous integration and deployment
@@ -51,7 +51,11 @@ The developer of the systems has to:
   part of the system since potentially the code of the students is non trusted),
 * provide user stories to explain how the system is intended to be use
 * provide minimal documentation to deploy and run the system
-* possibility to deploy on multi-clouds is a plus
+
+
+Notes:
+* the possibility to deploy on multi-clouds and avoid vendor lock-in is a plus
+* a proper team organization and team work management are a plus 
 
 
 
